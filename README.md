@@ -1,6 +1,6 @@
 ## Home_Assignment_5
-## Student Name : Sai krishna Edara
-## Student ID : 700769262
+## Student Name : Yatish Durga 
+## Student ID : 700766010
 ### Question 3
 ### Basic Generative Adversarial Network (GAN) for MNIST
 
